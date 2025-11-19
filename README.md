@@ -30,8 +30,7 @@ Crie um sistema com as funções:
 - validar acesso (recebe agência, conta e senha)
 - exibir saldo
 - realizar saque (somente se houver saldo)
-- registrar no histórico cada operação
-No saque, exiba a quantidade de cédulas entregues usando as notas: 100, 50, 20 e 10, utilizando o menor número possível de cédulas.
+- No saque, exiba a quantidade de cédulas entregues usando as notas: 100, 50, 20 e 10, utilizando o menor número possível de cédulas.
 
 ### 10. Ranking de Pontuação
 Crie um array de objetos representando jogadores com nome e pontos. Crie uma função que retorne o array ordenado do maior para o menor ponto.
